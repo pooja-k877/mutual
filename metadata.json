@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Mutual Fund Investment Platform",
+  "description": "A web platform that provides detailed information about mutual funds, helping users understand risks, performance, and make informed investment decisions. It features role-based dashboards for Investors, Financial Advisors, Data Analysts, and Admins.",
+  "requestFramePermissions": []
+}
